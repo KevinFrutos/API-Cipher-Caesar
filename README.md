@@ -10,7 +10,7 @@ headers{
 }
 ```
 
-_# DECRYPT
+_# DECRYPT_
 
 ```
 GET /decrypt
